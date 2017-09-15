@@ -1,0 +1,44 @@
+
+--------REPORT---------
+
+---Passengers in the Passenger Array---
+
+First Name: Gregory	Surname: Hamlin
+First Name: Pedro	Surname: Lourencao
+First Name: Kpodo	Surname: Awiti
+First Name: Omar	Surname: Thiery
+First Name: Morand	Surname: Gwen
+First Name: Lattar	Surname: Calogero
+First Name: Pera	Surname: Hanna
+First Name: Valimaa	Surname: Inuzuka
+First Name: Hitoshi	Surname: Kiran
+First Name: Suling	Surname: Boris
+First Name: Kojemiachenko	Surname: Greta
+First Name: Hamm	Surname: Pedro
+First Name: Lourencini	Surname: Kristo
+First Name: Awiti	Surname: Ryan
+First Name: MZoudi	Surname: Thomas
+First Name: Moreau	Surname: Gwen
+First Name: Lau	Surname: Calorio
+First Name: Regina	Surname: Pirjo
+First Name: Waltari	Surname: Inuzuka
+First Name: Hitoshi	Surname: Kiw
+First Name: Suling	Surname: Boris
+First Name: Lucas	Surname: Ubweza
+First Name: Awora	Surname: Ryaz
+First Name: Nahid	Surname: Tiffany
+First Name: Morel	Surname: Hamilton
+First Name: Laubmeier	Surname: Calorio
+First Name: Rosa	Surname: Aki
+First Name: Vanhanen	Surname: Inuzuka
+First Name: Boris	Surname: Kokorin
+First Name: Grover	Surname: Hammond
+
+Maximum length of the queue attained: 20
+
+Maximum waiting time: 17
+
+Minimum waiting time: 4
+
+Average waiting time: 9.966666666666667
+
